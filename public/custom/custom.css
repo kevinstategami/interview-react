@@ -1,0 +1,16 @@
+.badan-kartu {
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+}
+
+.kaki-kartu button{
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+}
+
+.kartu-tambah {
+    cursor: pointer;
+}
+.text-hijau {
+    color : #27C8A4;
+}
